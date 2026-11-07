@@ -8,4 +8,4 @@ The app uses Android Accessibility Service access only to display and operate th
 
 PlayShield displays Google Mobile Ads on the setup screen. Google and its advertising partners may process device identifiers, approximate location, and ad interaction data to provide, measure, and personalize ads according to the user's consent and Google Play settings. PlayShield does not place ads over the touch-blocking overlay or media player. Users can remove locally stored profiles and settings by clearing app data or uninstalling the app.
 
-For support, publish a contact address here before submitting the app to Google Play.
+For support, contact Kinhluanusa@gmail.com.
